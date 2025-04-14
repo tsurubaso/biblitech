@@ -4,7 +4,7 @@ text_author: Tsurubaso
 title: template
 type: SF Futuristique
 description: Bon, c'est le template mais je veux voir ce que ça donne donc provisoirement fragment
-status: fragment
+status: story
 link: template
 lecture: 1
 timelineStart: 
