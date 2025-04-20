@@ -1,7 +1,7 @@
 ---
 illu_author: null
 text_author: Tsurubaso
-title: template
+title: techexample
 type: SF Futuristique
 description: Bon, c'est le template mais je veux voir ce que ça donne donc provisoirement fragment
 status: story
